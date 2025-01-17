@@ -1,4 +1,4 @@
-# udemy-simple-front-side-page
+
 
 A basic frontside webpage for Udemy, created using HTML and CSS. This project demonstrates fundamental web development skills, including layout design and styling.
 
